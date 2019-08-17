@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Specifications (please complete the following information):**
  - OS: [e.g. Mac]
- - XD Version [e.g. ]
+ - XD Version [e.g. 22.0.12.12]
  - Plugin Version [e.g. 1.0.0]
 
 **Additional context**
